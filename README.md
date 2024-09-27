@@ -26,3 +26,19 @@ What I Learned:
 6. Stored Procedures & Triggers
 
     Automating repetitive tasks with stored procedures and triggers.
+
+7. String Functions
+
+    Using functions like TRIM(), CONCAT(), and SUBSTRING() for string manipulation.
+
+8. Subqueries & Common Table Expressions (CTE)
+
+    Writing subqueries and utilizing CTEs for more organized and readable queries.
+
+9. Temporary Tables
+
+    Creating and managing temporary tables for complex data processing tasks.
+
+10. Events
+
+    Scheduling and automating tasks using MySQL events.
